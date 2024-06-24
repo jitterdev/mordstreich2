@@ -305,11 +305,6 @@ hash = "c239c951796882b9c93e649a0dba4f2d95804441faaed707b686381b7a5c67da"
 metafile = true
 
 [[files]]
-file = "mods/lithosphere.pw.toml"
-hash = "0ad2acf782f3dc365acd9fb68796e57cdd7d9b4980b57981c727d0cb7fcd8e9a"
-metafile = true
-
-[[files]]
 file = "mods/lootr.pw.toml"
 hash = "9d399c9d4dad20b73d05fa85c8ee9fbb660fd4e78bd4dd21780e19013b499e7c"
 metafile = true
@@ -362,6 +357,11 @@ metafile = true
 [[files]]
 file = "mods/mythicmetals.pw.toml"
 hash = "b95a1453b512d4d4f84cf4641e411f80b154de44d47ba3ce5721cbcd19fd4832"
+metafile = true
+
+[[files]]
+file = "mods/natures-spirit.pw.toml"
+hash = "4017a2cb3805bc152c576fb2f851a4a086f3081682102025508b45b40636ecf2"
 metafile = true
 
 [[files]]
@@ -500,8 +500,18 @@ hash = "da7add3d42e061dd961abd0288d0ed8837e816b5eed75fa87c7609ee66b1e8b6"
 metafile = true
 
 [[files]]
+file = "mods/steep-surface-fix.pw.toml"
+hash = "b13a0bd64c3822300fe58bc2825c63fa7ea6bb2d1fba7a948ebd70b8e93dac64"
+metafile = true
+
+[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "89f7693f7a01cff27f51b9b68a4fdfec49a59177b1e1e173bbcaef06f892d7e7"
+metafile = true
+
+[[files]]
+file = "mods/tectonic.pw.toml"
+hash = "1624e47e8890c8e7a09a7f808f2fd3f01b6d07ce350e9b9c7ccc86aea9eda1fa"
 metafile = true
 
 [[files]]
