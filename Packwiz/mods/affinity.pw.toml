@@ -1,0 +1,7 @@
+name = "affinity"
+filename = "affinity-0.1-alpha.14+1.20.jar"
+
+[download]
+url = "https://github.com/jitterdev/mordstreich2/raw/master/mods/affinity-0.1-alpha.14+1.20.jar"
+hash-format = "sha256"
+hash = "0100ed635682b1c58b3d1df2bfbf09124713c917e75f78371975ac2b76ca42c1"

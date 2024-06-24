@@ -1,0 +1,7 @@
+name = "paucal"
+filename = "paucal-fabric-1.20.1-0.6.0-pre-118.jar"
+
+[download]
+url = "https://github.com/jitterdev/mordstreich2/blob/master/mods/paucal-fabric-1.20.1-0.6.0-pre-118.jar"
+hash-format = "sha256"
+hash = "0b48156e7dff3fde38d18062cdf2ffabee7a61b3224c0c500b7395a002eb82d0"

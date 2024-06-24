@@ -25,6 +25,11 @@ file = "config/reterraforged/presets/MountainsV2_1.json"
 hash = "637133cbb49ede0a187b1f7fc9f3466c4bfd5a861e8305e56b2b1788334bc0e1"
 
 [[files]]
+file = "mods/affinity.pw.toml"
+hash = "60aa88832221091ba32f5654cf7b41a65493ccc63ab35a9b45541fe79cdaf278"
+metafile = true
+
+[[files]]
 file = "mods/alloy-forgery.pw.toml"
 hash = "6fbfd9a00b617f2205c9b7739240201809eba8754093f5321aeb241f6ef6e1b4"
 metafile = true
@@ -240,6 +245,11 @@ hash = "b0b138930052f2c393881ad36b47dc4e6ee4c146bbff0ce0118895900511e7bb"
 metafile = true
 
 [[files]]
+file = "mods/hexcasting.pw.toml"
+hash = "3615a92d0d1051d8293eb54ee3c43089614665d95a40185268cc2a4e0195aa8f"
+metafile = true
+
+[[files]]
 file = "mods/illager-invasion.pw.toml"
 hash = "83ddb016541548322b3bed6e4306ec9dadb6c751d85aa3889e705e8704614195"
 metafile = true
@@ -410,6 +420,11 @@ hash = "89e5cab6f92dbcfd6c2c058fc9381869fde193a431c284dbb828833e881cd344"
 metafile = true
 
 [[files]]
+file = "mods/paucal.pw.toml"
+hash = "76f7fcda585ea7aa13ab4240713a4517bee2c72086bd0bc746c7339d16bba6f2"
+metafile = true
+
+[[files]]
 file = "mods/pehkui.pw.toml"
 hash = "db2ef0d18557d56570c504142912af0d519814bf047165aa04bf24bddf026fdc"
 metafile = true
@@ -442,6 +457,11 @@ metafile = true
 [[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "afc67b2e24da761efb6c7dcbc1ff7fa9efebd61118d065e75e20005138936188"
+metafile = true
+
+[[files]]
+file = "mods/reterraforged.pw.toml"
+hash = "669d2d9bd9b6c5475b4fde891455c83164896ed465b7a698c124f4564c6c0f7c"
 metafile = true
 
 [[files]]
