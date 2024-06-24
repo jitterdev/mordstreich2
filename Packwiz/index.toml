@@ -240,6 +240,11 @@ hash = "1fb6848f2fc67cb20f65b976c18d98bd98774d0a4c3b35af0d61057a984feb3f"
 metafile = true
 
 [[files]]
+file = "mods/geophilic.pw.toml"
+hash = "8b095b4d08ca635469699556d1a6ce979ae614d33b849a57df9ca012a067faec"
+metafile = true
+
+[[files]]
 file = "mods/glsl-panorama.pw.toml"
 hash = "b0b138930052f2c393881ad36b47dc4e6ee4c146bbff0ce0118895900511e7bb"
 metafile = true
@@ -567,11 +572,6 @@ metafile = true
 [[files]]
 file = "mods/winterly.pw.toml"
 hash = "bb1a48af3aa430322423c8176bb6108b7aa8ac2819d740261e6d07f64d7a4922"
-metafile = true
-
-[[files]]
-file = "mods/wwoo.pw.toml"
-hash = "290621ae12ef318d4b29f52bfc05a8491104a04174513f7553140a344268ea61"
 metafile = true
 
 [[files]]
