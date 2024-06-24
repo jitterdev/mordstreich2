@@ -1,0 +1,13 @@
+name = "Spellbound Enchantments"
+filename = "spellbound-1.15.0.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/PvOWwwRg/versions/puEMxOlP/spellbound-1.15.0.1.jar"
+hash-format = "sha1"
+hash = "c9716ba26b2bba93cf28becfe569764fa0708810"
+
+[update]
+[update.modrinth]
+mod-id = "PvOWwwRg"
+version = "puEMxOlP"

@@ -1,0 +1,13 @@
+name = "Origins: Dietary Delights"
+filename = "origins-dietary-delights-1.5.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/BVkoXkly/versions/Kbv3chWT/origins-dietary-delights-1.5.2.jar"
+hash-format = "sha1"
+hash = "e7228a00f9703fe85e96cec384fc59b0fb6286ac"
+
+[update]
+[update.modrinth]
+mod-id = "BVkoXkly"
+version = "Kbv3chWT"

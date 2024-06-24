@@ -1,0 +1,13 @@
+name = "mord"
+author = "jitter"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "44e10e287fe01e64d85366ce71ac282ac30b7fa347c44ca7992f17767a36da7b"
+
+[versions]
+fabric = "0.15.11"
+minecraft = "1.20.1"
