@@ -461,7 +461,7 @@ metafile = true
 
 [[files]]
 file = "mods/reterraforged.pw.toml"
-hash = "669d2d9bd9b6c5475b4fde891455c83164896ed465b7a698c124f4564c6c0f7c"
+hash = "9154b0b6c8fc384da1d4dc579698a885706492dbc391cd44ceef04882de0c5a8"
 metafile = true
 
 [[files]]
